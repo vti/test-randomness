@@ -1,0 +1,7 @@
+name = "Test-Randomness"
+# badges = ["travis"]
+authority="cpan:VTI"
+
+module_maker="ModuleBuildTiny"
+static_install = "auto"
+
